@@ -1,0 +1,22 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.digital{
+    margin-top: 5%;
+    color: red;
+}
+
+#clock {
+    font-size: 4rem;
+    margin-top: 3%;
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    color: rgb(4, 238, 4);
+}
