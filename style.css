@@ -8,7 +8,11 @@ body {
 }
 .digital{
     margin-top: 5%;
-    color: red;
+    color: rgb(170, 164, 164);
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 #clock {
